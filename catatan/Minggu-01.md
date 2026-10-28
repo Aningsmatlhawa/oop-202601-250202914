@@ -15,4 +15,7 @@ Saat menjalankan test java menggunakan maven terjadi error karena belum di inisi
 - Bagian yang dibantu AI: saat run di test "Minggu01Test.java"
 - Prompt utama: "Kenapa maven saya tidak bisa berjalan dan error terus menerus?", "Kenapa terjadi error di output pengetesen?"
 - Yang saya ubah atau tolak dari saran AI, dan alasannya: yang saya tolak menambahkan code ke user variables lalu ke Path, dengan alasan akan mengulang kembali code.
-- Satu hal yang saya pahami lebih baik sekarang: Mengetahui paradigma, penggunaan java, oop dan functional 
+- Satu hal yang saya pahami lebih baik sekarang: Mengetahui paradigma, penggunaan java, oop dan functional.<img <img width="555" height="416" alt="Minggu01-2" src="https://github.com/user-attachments/assets/43ce4191-5110-4143-a164-cab97dbe93ba" />
+<img width="565" height="342" alt="Minggu01-1" src="https://github.com/user-attachments/assets/285d4feb-e1ef-4f03-9622-ae7111575c5a" />
+
+
